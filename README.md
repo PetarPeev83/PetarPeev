@@ -22,4 +22,5 @@
 <h3><b>Projects:</b></h3>
 
 https://music-app-peev.github.io/
+<br>
 https://petarpeev83.github.io/calendar-events-CRUD/
