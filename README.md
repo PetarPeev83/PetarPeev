@@ -17,8 +17,6 @@
 <img align="left" a align="left"lt="javascriptIcon" width="35px" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
 <hr>
 
-<hr>
-
 <h3><b>Projects:</b></h3>
 
 https://music-app-peev.github.io/
